@@ -92,7 +92,7 @@
   "dependencies": {
     "@redtea/format-axios-error": "^2.0.2",
     "alai": "^1.0.3",
-    "aws-sdk": "^2.893.0",
+    "aws-sdk": "^2.921.0",
     "axios": "^0.21.1",
     "dotenv": "^8.6.0",
     "dynamoose": "^2.7.3",
